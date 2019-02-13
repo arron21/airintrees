@@ -1,7 +1,14 @@
 ---
-title: "First"
-date: 2019-02-13T11:48:13-08:00
-draft: true
----
+title: First
+date: 2019-02-13 19:48:13 +0000
 
-hello world
+---
+Hello World
+
+This is a personal blog
+
+it will mostly be about web development and design
+
+it might have some technology news thrown in there
+
+and maybe some other stuff.
