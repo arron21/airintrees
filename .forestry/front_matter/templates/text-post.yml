@@ -1,0 +1,17 @@
+---
+label: Text Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: what_do_you_want_to_write_
+  label: What do you want to write?
+  description: this is the exact text that will be written to the blog
+  config:
+    required: true
+- type: color
+  name: color_choice
+  config:
+    color_format: Hex
+  label: color choice
+  description: add a pop of color to the post
