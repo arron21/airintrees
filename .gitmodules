@@ -1,0 +1,3 @@
+[submodule "themes/saito-boilerplate"]
+	path = themes/saito-boilerplate
+	url = https://github.com/hakuoku/saito-boilerplate.git
