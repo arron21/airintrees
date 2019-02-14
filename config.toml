@@ -1,4 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "saito-boilerplate"
+title = "Home"
+theme = "temple"
+
+[author]
+  name = "Arron McCrory"
+  github = "arron21"
+  email = "arronmccrory@email.com"
+  medium = "@arronmccrory"

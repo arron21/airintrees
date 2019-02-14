@@ -1,3 +1,6 @@
 [submodule "themes/saito-boilerplate"]
 	path = themes/saito-boilerplate
 	url = https://github.com/hakuoku/saito-boilerplate.git
+[submodule "themes/temple"]
+	path = themes/temple
+	url = https://github.com/aos/temple.git
