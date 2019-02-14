@@ -3,6 +3,12 @@ label: Text Post
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
+  description: the title of your post
+  config:
+    required: true
 - type: color
   name: color_choice
   config:
