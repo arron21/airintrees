@@ -19,5 +19,3 @@ fields:
   name: categories
   label: categories
   description: add multiple category tags to organize your post
-pages:
-- content/blog/second.md
