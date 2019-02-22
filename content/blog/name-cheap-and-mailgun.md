@@ -26,7 +26,7 @@ My Final Advanced DNS Records looked like this
 
 CNAME Record  email.mg  mailgun.org
 
-TXT Record  @  v=spf1 include:mailgun.org \~all TXT Record  smtp._domainkey.mg  k=rsa; p=somelongstringhere
+TXT Record  mg  v=spf1 include:mailgun.org \~all TXT Record  smtp._domainkey.mg  k=rsa; p=somelongstringhere
 
 URL Redirect Record  @  http://www.mydomain.com/  unmasked
 
