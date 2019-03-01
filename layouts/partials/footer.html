@@ -5,7 +5,7 @@
       <div class="pure-menu pure-menu-horizontal">
         <ul>
           {{ if .Site.Author.name }}
-          <li class="pure-menu-item" id="foot-name">Â© {{ .Site.Author.name }}</li>
+          <li class="pure-menu-item" id="foot-name">© {{ .Site.Author.name }}</li>
           {{ end }}
 
           {{ if .Site.Author.email }}
@@ -33,9 +33,9 @@
           {{ end }}
 
         </ul>
-        <a href="#" class="pure-menu-link pull-right" id="gototop-btn">â†‘â†‘</a>
+        <a href="#" class="pure-menu-link pull-right" id="gototop-btn">^</a>
         {{ if .RSSLink }}
-        <a href="{{ .RSSLink }}" class="pure-menu-link pull-right">RSS</a>
+        <!-- <a href="{{ .RSSLink }}" class="pure-menu-link pull-right">RSS</a> -->
         {{ end }}
       </div>
       {{ if .Site.Copyright }}
