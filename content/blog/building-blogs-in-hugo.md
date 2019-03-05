@@ -2,7 +2,6 @@
 categories = ["web"]
 color_choice = "#417505"
 date = "2019-03-05T16:53:45+00:00"
-draft = true
 title = "Building Blogs in HUGO"
 
 +++
