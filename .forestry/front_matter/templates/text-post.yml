@@ -1,7 +1,6 @@
 ---
 label: Text Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -20,6 +19,7 @@ fields:
   label: categories
   description: add multiple category tags to organize your post
 pages:
+- content/blog/i-went-to-the-dentist.md
 - content/blog/building-blogs-in-hugo.md
 - content/blog/name-cheap-and-mailgun.md
 - content/blog/what-is-the-deal-with-these-tiny-bezels.md
