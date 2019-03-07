@@ -2,7 +2,6 @@
 categories = ["health", "life"]
 color_choice = "#F2F2F2"
 date = "2019-03-07T19:34:35+00:00"
-draft = true
 title = "I went to the dentist"
 
 +++
