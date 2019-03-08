@@ -2,7 +2,7 @@
 categories = ["web"]
 color_choice = ""
 date = "2019-02-22T17:20:38+00:00"
-draft = false
+draft = true
 title = "Name Cheap and MailGun"
 
 +++
