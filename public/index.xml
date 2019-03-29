@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://www.arron.dev/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>arronmccrory@email.com (Arron McCrory)</managingEditor>
+    <webMaster>arronmccrory@email.com (Arron McCrory)</webMaster>
+    <lastBuildDate>Thu, 07 Mar 2019 19:34:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.arron.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I went to the dentist</title>
+      <link>https://www.arron.dev/blog/i-went-to-the-dentist/</link>
+      <pubDate>Thu, 07 Mar 2019 19:34:35 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/blog/i-went-to-the-dentist/</guid>
+      <description>I went to the dentist yesterday. I had not been to the dentist in a couple years so I figured I was overdue for a cleaning.
+Turns out I was only getting x-rays on this initial visit and I have to go back for a cleaning next week. I have 1 cavity on the side of one of my teeth; I had not noticed it before.
+They also want me to consult an oral surgeon because they think my wisdom teeth are going to become an issue in the future.</description>
+    </item>
+    
+    <item>
+      <title>Building Blogs in HUGO</title>
+      <link>https://www.arron.dev/blog/building-blogs-in-hugo/</link>
+      <pubDate>Tue, 05 Mar 2019 16:53:45 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/blog/building-blogs-in-hugo/</guid>
+      <description>Hugo is pretty cool, but I have been having some difficulties trying to convert a &amp;lsquo;blog-less&amp;rsquo; theme into a theme that includes a blog.
+I am still new to HUGO so what should be a simple task such as creating a list of blog posts and viewing said blog posts has had its hurdles. I have discovered a few &amp;lsquo;oh duh&amp;rsquo; things about getting a blog to work, I am sure there will be more &amp;lsquo;oh duh&amp;rsquo; moments in the future.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.arron.dev/about/</link>
+      <pubDate>Thu, 14 Feb 2019 16:24:02 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/about/</guid>
+      <description>Hi, I&#39;m Arron.I have been working on the web since 2011I am a Front End Web DeveloperI mostly work in JavaScript based Web StacksHTML/CSS/JS are my main tools, but I have worked with quite a few things...SkillsHTMLSCSS/CSSJavaScriptAngularAngularJSWeb DesignGitUI/UXFront End DesignPhotoshopAgile Application DevelopmentRESTful ApplicationsjQueryVue.jsSEOMaterial DesignBootstrapFoundationUI KitChart.jsNode.jsShopifyMongoDBLaravelPHPWordPress.pill {display: inline-block;margin: 10px;padding: 5px 10px;background-color: #efefef;}</description>
+    </item>
+    
+    <item>
+      <title>A New Website</title>
+      <link>https://www.arron.dev/blog/first/</link>
+      <pubDate>Wed, 13 Feb 2019 19:48:13 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/blog/first/</guid>
+      <description>Hello World!
+New Year, New Me.
+I am updating my website to a HUGO SSG.
+I plan to use this as a blog for my day to day work experiences as well as other things I find cool.
+I am really liking the idea of these Static Site Generators. They are wicked fast and super cheap to run. I am happy with the simplicity of them. I am also using a service called forestry.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.arron.dev/blog/i-went-to-the-dentist/</loc>
+    <lastmod>2019-03-07T19:34:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/blog/building-blogs-in-hugo/</loc>
+    <lastmod>2019-03-05T16:53:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/about/</loc>
+    <lastmod>2019-02-14T16:24:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/blog/first/</loc>
+    <lastmod>2019-02-13T19:48:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/blog/</loc>
+    <lastmod>2019-03-07T19:34:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/categories/health/</loc>
+    <lastmod>2019-03-07T19:34:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/</loc>
+    <lastmod>2019-03-07T19:34:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/categories/life/</loc>
+    <lastmod>2019-03-07T19:34:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.arron.dev/categories/web/</loc>
+    <lastmod>2019-03-05T16:53:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

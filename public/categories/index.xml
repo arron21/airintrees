@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home</title>
+    <link>https://www.arron.dev/categories/</link>
+    <description>Recent content in Categories on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>arronmccrory@email.com (Arron McCrory)</managingEditor>
+    <webMaster>arronmccrory@email.com (Arron McCrory)</webMaster>
+    
+	<atom:link href="https://www.arron.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health</title>
+      <link>https://www.arron.dev/categories/health/</link>
+      <pubDate>Thu, 07 Mar 2019 19:34:35 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://www.arron.dev/categories/life/</link>
+      <pubDate>Thu, 07 Mar 2019 19:34:35 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://www.arron.dev/categories/web/</link>
+      <pubDate>Tue, 05 Mar 2019 16:53:45 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/categories/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

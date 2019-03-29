@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Home</title>
+    <link>https://www.arron.dev/categories/web/</link>
+    <description>Recent content in Web on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>arronmccrory@email.com (Arron McCrory)</managingEditor>
+    <webMaster>arronmccrory@email.com (Arron McCrory)</webMaster>
+    <lastBuildDate>Tue, 05 Mar 2019 16:53:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.arron.dev/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Blogs in HUGO</title>
+      <link>https://www.arron.dev/blog/building-blogs-in-hugo/</link>
+      <pubDate>Tue, 05 Mar 2019 16:53:45 +0000</pubDate>
+      <author>arronmccrory@email.com (Arron McCrory)</author>
+      <guid>https://www.arron.dev/blog/building-blogs-in-hugo/</guid>
+      <description>Hugo is pretty cool, but I have been having some difficulties trying to convert a &amp;lsquo;blog-less&amp;rsquo; theme into a theme that includes a blog.
+I am still new to HUGO so what should be a simple task such as creating a list of blog posts and viewing said blog posts has had its hurdles. I have discovered a few &amp;lsquo;oh duh&amp;rsquo; things about getting a blog to work, I am sure there will be more &amp;lsquo;oh duh&amp;rsquo; moments in the future.</description>
+    </item>
+    
+  </channel>
+</rss>

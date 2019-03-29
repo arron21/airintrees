@@ -4,7 +4,7 @@
         <div class="desktop pure-menu pure-menu-horizontal nav-menu">
             {{ $baseurl := .Site.BaseURL }}
             <a href="{{$baseurl}}" class="site-title pure-menu-heading">{{ .Site.Title }}</a>
-            <ul class="pure-menu-list pull-right">
+            <ul class="pure-menu-list">
 				{{ if eq .Site.Params.topmenu "categories" }}
                 {{ range $name,$page := .Site.Taxonomies.categories }}
                 <li class="pure-menu-item">
