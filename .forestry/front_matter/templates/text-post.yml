@@ -19,7 +19,8 @@ fields:
   label: categories
   description: add multiple category tags to organize your post
 pages:
+- content/blog/memory-location-and-mindfullness.md
+- content/blog/name-cheap-and-mailgun.md
 - content/blog/i-went-to-the-dentist.md
 - content/blog/building-blogs-in-hugo.md
-- content/blog/name-cheap-and-mailgun.md
 - content/blog/what-is-the-deal-with-these-tiny-bezels.md
