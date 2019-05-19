@@ -1,10 +1,14 @@
 baseURL = "https://www.arron.dev"
 languageCode = "en-us"
 title = "Home"
-theme = "temple"
+theme = "code-editor"
 
 [author]
   name = "Arron McCrory"
   github = "arron21"
   email = "arronmccrory@email.com"
   medium = "arronmccrory"
+
+[params]
+    author = "Arron McCrory"
+    locale = "en-US"
