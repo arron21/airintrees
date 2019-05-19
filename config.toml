@@ -1,7 +1,7 @@
 baseURL = "https://www.arron.dev"
 languageCode = "en-us"
 title = "Home"
-theme = "code-editor"
+theme = "hugo-code-editor-theme"
 
 [author]
   name = "Arron McCrory"
