@@ -1,5 +1,5 @@
 +++
-categories = ["programming", " angular"]
+categories = ["programming", " angular", "web"]
 color_choice = ""
 title = "ngx-codemirror jsonlint"
 
