@@ -11,7 +11,7 @@ I had a bit of trouble getting jsonlint to work with ngx-codemirror, so ill post
 in `main.ts` i needed the following imports
 
     import jsonlint from 'jsonlint';
-    window\['jsonlint'\] = jsonlint;
+    window['jsonlint'] = jsonlint;
     import 'jshint';
     
       
