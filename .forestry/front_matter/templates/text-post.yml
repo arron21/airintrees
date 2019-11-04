@@ -19,6 +19,7 @@ fields:
   label: categories
   description: add multiple category tags to organize your post
 pages:
+- content/blog/pretty-print-json-in-javascript.md
 - content/blog/ngx-codemirror-jsonlint.md
 - content/blog/memory-location-and-mindfullness.md
 - content/blog/we-live-in-an-age-of-communication.md
