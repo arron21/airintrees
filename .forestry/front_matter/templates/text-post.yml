@@ -19,12 +19,13 @@ fields:
   label: categories
   description: add multiple category tags to organize your post
 pages:
-- content/blog/private-corporations-public-land.md
-- content/blog/pretty-print-json-in-javascript.md
-- content/blog/ngx-codemirror-jsonlint.md
+- content/blog/building-blogs-in-hugo.md
+- content/blog/i-went-to-the-dentist.md
+- content/blog/life-as-a-web-application-developer.md
 - content/blog/memory-location-and-mindfullness.md
+- content/blog/name-cheap-and-mailgun.md
+- content/blog/ngx-codemirror-jsonlint.md
+- content/blog/pretty-print-json-in-javascript.md
+- content/blog/private-corporations-public-land.md
 - content/blog/we-live-in-an-age-of-communication.md
 - content/blog/what-is-the-deal-with-these-tiny-bezels.md
-- content/blog/name-cheap-and-mailgun.md
-- content/blog/i-went-to-the-dentist.md
-- content/blog/building-blogs-in-hugo.md
