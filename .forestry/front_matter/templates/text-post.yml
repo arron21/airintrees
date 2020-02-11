@@ -20,6 +20,7 @@ fields:
   description: add multiple category tags to organize your post
 pages:
 - content/blog/building-blogs-in-hugo.md
+- content/blog/can-t-bind-to-icon-since-it-isn-t-a-known-property-of-fa-icon.md
 - content/blog/i-went-to-the-dentist.md
 - content/blog/life-as-a-web-application-developer.md
 - content/blog/memory-location-and-mindfullness.md
